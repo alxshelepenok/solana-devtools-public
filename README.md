@@ -1,6 +1,7 @@
 # solana-devtools
 
 ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?logo=solana&logoColor=white)
+![Degen Approved](https://img.shields.io/badge/Degen-Approved-9C27B0?style=flat)
 
 A comprehensive toolkit for Solana blockchain development and trading operations.
 
