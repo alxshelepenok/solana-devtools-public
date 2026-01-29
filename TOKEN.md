@@ -6,7 +6,7 @@ $TOOLS celebrates the builders, traders, and degens who create and use tools in 
 
 Join the movement of old-school aesthetics meeting new-school blockchain technology.
 
-**X Community:** [@Tools for Profit](https://x.com/ToolsForProfit)
+**X Community:** [@Tools for Profit](https://x.com/i/communities/2016912079014236665)
 
 ## Token Info
 
