@@ -1,6 +1,6 @@
 # $TOOLS
 
-$TOOLS celebrates the builders, traders, and degens who create and use tools in the Solana ecosystem. Born from the retro Win98-styled solana-devtools project, this token represents the spirit of building for profit and fun.
+$TOOLS celebrates the builders, traders, and degens who create and use tools in the Solana ecosystem. Born from the solana-devtools project, this token represents the spirit of building for profit and fun.
 
 ## Community
 
