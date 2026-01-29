@@ -13,6 +13,7 @@ Join the movement of old-school aesthetics meeting new-school blockchain technol
 - **Symbol:** $TOOLS
 - **Platform:** bags.fm
 - **Network:** Solana
+- **Mint Address:** FdzXDTsxQDwc9dYBp9nvyKFvPN23Q8ZgFb2B4rMhBAGS
 - **Purpose:** Meme token celebrating Solana developer tools and community.
 
 ---
