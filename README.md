@@ -6,7 +6,7 @@ A comprehensive toolkit for Solana blockchain development and trading operations
 
 Solana Devtools is a self-hosted web application built with NestJS and Fastify, designed to streamline wallet management, token operations, and trading workflows on the Solana blockchain. It provides a modern web interface for managing multiple wallets, executing swaps on Pump.fun, mixing SOL for privacy, simulating AMM pools, and analyzing transaction flows.
 
-![hero](./docs/screenshots/hero.png)
+![hero](./docs/screenshots/hero_2.png)
 
 ## Disclaimer
 
